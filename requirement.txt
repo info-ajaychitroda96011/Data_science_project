@@ -2,3 +2,4 @@ pandas
 numpy
 seaborn
 catboost
+dill
