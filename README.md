@@ -49,7 +49,7 @@ The **primary goal of this project** is to understand and implement an **industr
 
 1. Clone the Repository:
    ```bash
-    git clone https://github.com/info-ajaychitroda96011/Olympics_Data_Cleaning.git
+    git clone https://github.com/info-ajaychitroda96011/Data_science_project.git
 2. Navigate to Project Directory:
    ```bash
     cd olympics-analysis
