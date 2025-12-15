@@ -21,15 +21,7 @@ The **primary goal of this project** is to understand and implement an **industr
 ## 🧠 Machine Learning Approach
 - **Problem Type:** Regression  
 - **Target Variable:** Maths Score  
-
-### 🔹 Input Features
-- Gender  
-- Race / Ethnicity  
-- Parental Level of Education  
-- Lunch Type  
-- Test Preparation Course  
-- Reading Score (0–100)  
-- Writing Score (0–100)  
+  
 
 ### 🔹 ML Pipeline
 - Data ingestion  
@@ -40,7 +32,30 @@ The **primary goal of this project** is to understand and implement an **industr
 - Prediction pipeline for inference  
 
 ---
+## 🛠️ Technologies Used
+- **Programming Language:** Python  
+- **Libraries:** Pandas, NumPy, Scikit-learn  
+- **Web Framework:** Flask  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Concepts:**  
+  - Logging  
+  - Exception Handling  
+  - Modular Coding  
+  - Pickle Serialization  
 
-## 🏗️ Project Structure
-This project follows a **production-ready ML architecture** to ensure scalability and maintainability.
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the Repository:
+   ```bash
+    git clone https://github.com/info-ajaychitroda96011/Olympics_Data_Cleaning.git
+2. Navigate to Project Directory:
+   ```bash
+    cd olympics-analysis
+
+3. Run the Application
+   ```bash
+    python app.py
+
 
